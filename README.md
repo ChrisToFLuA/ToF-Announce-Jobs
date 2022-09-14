@@ -1,6 +1,7 @@
 # Announce Job with only 1 command chat for all jobs
 
 a simple script using ox_lib to allow your players to make announces about their job, with a same command for all jobs.
+- Forum link : https://forum.cfx.re/t/free-tof-announce-jobs-using-ox-lib/4910725
 
 # Dependencies 
 - ox_lib : https://github.com/overextended/ox_lib
